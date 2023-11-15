@@ -196,6 +196,12 @@ build CMakeFiles/Ejercicio_4.dir/Ejercicio_4/main.cpp.obj: CXX_COMPILER__Ejercic
   OBJECT_DIR = CMakeFiles\Ejercicio_4.dir
   OBJECT_FILE_DIR = CMakeFiles\Ejercicio_4.dir\Ejercicio_4
 
+build CMakeFiles/Ejercicio_4.dir/Ejercicio_4/ciencia.cpp.obj: CXX_COMPILER__Ejercicio_4_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 4/ciencia.cpp || cmake_object_order_depends_target_Ejercicio_4
+  DEP_FILE = CMakeFiles\Ejercicio_4.dir\Ejercicio_4\ciencia.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_4.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_4.dir\Ejercicio_4
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Ejercicio_4
@@ -204,7 +210,7 @@ build CMakeFiles/Ejercicio_4.dir/Ejercicio_4/main.cpp.obj: CXX_COMPILER__Ejercic
 #############################################
 # Link the executable Ejercicio_4.exe
 
-build Ejercicio_4.exe: CXX_EXECUTABLE_LINKER__Ejercicio_4_Debug CMakeFiles/Ejercicio_4.dir/Ejercicio_4/main.cpp.obj
+build Ejercicio_4.exe: CXX_EXECUTABLE_LINKER__Ejercicio_4_Debug CMakeFiles/Ejercicio_4.dir/Ejercicio_4/main.cpp.obj CMakeFiles/Ejercicio_4.dir/Ejercicio_4/ciencia.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ejercicio_4.dir
