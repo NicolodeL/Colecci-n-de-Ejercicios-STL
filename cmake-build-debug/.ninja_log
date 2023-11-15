@@ -3,10 +3,10 @@
 5	300	7217856459539324	CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj	2097e6286978bc6
 3	289	7217865548795772	CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/main.cpp.obj	9840b67ed1675871
 3	103	7217867415590359	Colecci_n_de_Ejercicios_STL.exe	81b2451626827583
-1	205	7217890103247165	build.ninja	261f81248e0d6b26
-4	271	7217889132688191	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj	47f9f4004a073201
+1	208	7217898048127639	build.ninja	261f81248e0d6b26
+2	288	7217892824514264	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj	47f9f4004a073201
 19	97	7217883275318138	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/circulo.cpp.obj	283669298e2ef1dc
-60	167	7217889565425855	Ejercicio_2.exe	88d344b925341439
+288	404	7217892825622580	Ejercicio_2.exe	783892e7dc392a6
 0	288	7217872702546808	CMakeFiles/Ejercicio_1.dir/main.cpp.obj	d8eb813fd7b60305
 11	323	7217872702896938	CMakeFiles/Ejercicio_1.dir/matematicas.cpp.obj	31276cb8927ca89e
 271	401	7217872878046305	Ejercicio_1.exe	92238093b5969f22
@@ -17,6 +17,8 @@
 3	80	7217887665594114	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rectangulo.cpp.obj	94878c3d67fa115d
 2	60	7217889564429151	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/romboide.cpp.obj	d292d7fc2295adc4
 2	78	7217891628561394	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/hexagono.cpp.obj	7cca517d6cb5d23b
-79	196	7217891629676444	Ejercicio_2.exe	783892e7dc392a6
-2	288	7217892824514264	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj	47f9f4004a073201
-288	404	7217892825622580	Ejercicio_2.exe	783892e7dc392a6
+1	63	7217898002648919	CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj	2e188da1a84cada1
+1	281	7217898635155709	CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj	2e188da1a84cada1
+282	381	7217898636133766	Ejercicio_3.exe	b6d4663d66dfceff
+3	252	7217899691452359	CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj	2e188da1a84cada1
+252	362	7217899692520348	Ejercicio_3.exe	b6d4663d66dfceff
