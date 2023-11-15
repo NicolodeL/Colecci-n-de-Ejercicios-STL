@@ -10,5 +10,7 @@ int main()
     cout << "Resta " << resta(5,3) << endl;
     cout << "Multiplicacion " << multiplicacion(5,3) << endl;
     cout << "Division " << division(5,3) << endl;
-
+    cout << "Raiz cuadrada " << raizCuadrada(5) << endl;
+    cout << "Potencia " << potencia(5,3) << endl;
+    cout << "Logaritmo " << logaritmo(5) << endl;
 }
