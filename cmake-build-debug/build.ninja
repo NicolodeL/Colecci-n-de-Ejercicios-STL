@@ -157,6 +157,12 @@ build CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj: CXX_COMPILER__Ejercic
   OBJECT_DIR = CMakeFiles\Ejercicio_3.dir
   OBJECT_FILE_DIR = CMakeFiles\Ejercicio_3.dir\Ejercicio_3
 
+build CMakeFiles/Ejercicio_3.dir/Ejercicio_3/circulo.cpp.obj: CXX_COMPILER__Ejercicio_3_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 3/circulo.cpp || cmake_object_order_depends_target_Ejercicio_3
+  DEP_FILE = CMakeFiles\Ejercicio_3.dir\Ejercicio_3\circulo.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_3.dir\Ejercicio_3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Ejercicio_3
@@ -165,7 +171,7 @@ build CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj: CXX_COMPILER__Ejercic
 #############################################
 # Link the executable Ejercicio_3.exe
 
-build Ejercicio_3.exe: CXX_EXECUTABLE_LINKER__Ejercicio_3_Debug CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj
+build Ejercicio_3.exe: CXX_EXECUTABLE_LINKER__Ejercicio_3_Debug CMakeFiles/Ejercicio_3.dir/Ejercicio_3/main.cpp.obj CMakeFiles/Ejercicio_3.dir/Ejercicio_3/circulo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ejercicio_3.dir

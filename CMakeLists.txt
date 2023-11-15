@@ -23,5 +23,7 @@ add_executable (Ejercicio_2
         "Ejercicio 2/hexagono.h")
 add_executable(Ejercicio_3
         "Ejercicio 3/main.cpp"
+        "Ejercicio 3/circulo.cpp"
+        "Ejercicio 3/circulo.h"
 )
 
