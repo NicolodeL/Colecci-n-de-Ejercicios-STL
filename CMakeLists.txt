@@ -16,5 +16,9 @@ add_executable (Ejercicio_2
         "Ejercicio 2/circulo.cpp"
         "Ejercicio 2/circulo.h"
         "Ejercicio 2/rombo.cpp"
-        "Ejercicio 2/rombo.h")
+        "Ejercicio 2/rombo.h"
+        "Ejercicio 2/rectangulo.cpp"
+        "Ejercicio 2/rectangulo.h"
+        "Ejercicio 2/hexagono.cpp"
+        "Ejercicio 2/hexagono.h")
 

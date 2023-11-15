@@ -112,6 +112,18 @@ build CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rombo.cpp.obj: CXX_COMPILER__Ejerci
   OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Ejercicio_2.dir\Ejercicio_2
 
+build CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rectangulo.cpp.obj: CXX_COMPILER__Ejercicio_2_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 2/rectangulo.cpp || cmake_object_order_depends_target_Ejercicio_2
+  DEP_FILE = CMakeFiles\Ejercicio_2.dir\Ejercicio_2\rectangulo.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_2.dir\Ejercicio_2
+
+build CMakeFiles/Ejercicio_2.dir/Ejercicio_2/hexagono.cpp.obj: CXX_COMPILER__Ejercicio_2_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 2/hexagono.cpp || cmake_object_order_depends_target_Ejercicio_2
+  DEP_FILE = CMakeFiles\Ejercicio_2.dir\Ejercicio_2\hexagono.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_2.dir\Ejercicio_2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Ejercicio_2
@@ -120,7 +132,7 @@ build CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rombo.cpp.obj: CXX_COMPILER__Ejerci
 #############################################
 # Link the executable Ejercicio_2.exe
 
-build Ejercicio_2.exe: CXX_EXECUTABLE_LINKER__Ejercicio_2_Debug CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/triangulo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/circulo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rombo.cpp.obj
+build Ejercicio_2.exe: CXX_EXECUTABLE_LINKER__Ejercicio_2_Debug CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/triangulo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/circulo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rombo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/rectangulo.cpp.obj CMakeFiles/Ejercicio_2.dir/Ejercicio_2/hexagono.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
