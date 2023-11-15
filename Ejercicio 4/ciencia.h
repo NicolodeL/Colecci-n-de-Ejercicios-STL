@@ -5,15 +5,7 @@
 #ifndef COLECCI_N_DE_EJERCICIOS_STL_CIENCIA_H
 #define COLECCI_N_DE_EJERCICIOS_STL_CIENCIA_H
 
-namespace Ciencia {
-    namespace Fisica
-    {
-        const double L = 299792458; //km/s
-        double calcularEnergia(double masa) {
-            return masa * L * L;
-        }
-    }
-}
+
 
 
 #endif //COLECCI_N_DE_EJERCICIOS_STL_CIENCIA_H
