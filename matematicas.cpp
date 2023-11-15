@@ -16,6 +16,6 @@ namespace Matematicas {
         return a * b;
     }
     double division(int a , int b){
-        return a / b;
+        return static_cast<double>(a) / b;
     }
 };
