@@ -5,11 +5,11 @@
 #include <string>
 using namespace std;
 
-Namespace Matematicas {
-    int suma(inta , int b){
+namespace Matematicas {
+    int suma(int a , int b){
         return a + b;
     }
-    int resta(inta , int b){
+    int resta(int a , int b){
         return a - b;
     }
 };
