@@ -41,43 +41,76 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Colecci_n_de_Ejercicios_STL
+# Object build statements for EXECUTABLE target Ejercicio_1
 
 
 #############################################
-# Order-only phony target for Colecci_n_de_Ejercicios_STL
+# Order-only phony target for Ejercicio_1
 
-build cmake_object_order_depends_target_Colecci_n_de_Ejercicios_STL: phony || CMakeFiles/Colecci_n_de_Ejercicios_STL.dir
+build cmake_object_order_depends_target_Ejercicio_1: phony || CMakeFiles/Ejercicio_1.dir
 
-build CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj: CXX_COMPILER__Colecci_n_de_Ejercicios_STL_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/main.cpp || cmake_object_order_depends_target_Colecci_n_de_Ejercicios_STL
-  DEP_FILE = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir\main.cpp.obj.d
+build CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj: CXX_COMPILER__Ejercicio_1_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 1/main.cpp || cmake_object_order_depends_target_Ejercicio_1
+  DEP_FILE = CMakeFiles\Ejercicio_1.dir\Ejercicio_1\main.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
+  OBJECT_DIR = CMakeFiles\Ejercicio_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_1.dir\Ejercicio_1
 
-build CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/matematicas.cpp.obj: CXX_COMPILER__Colecci_n_de_Ejercicios_STL_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/matematicas.cpp || cmake_object_order_depends_target_Colecci_n_de_Ejercicios_STL
-  DEP_FILE = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir\matematicas.cpp.obj.d
+build CMakeFiles/Ejercicio_1.dir/Ejercicio_1/matematicas.cpp.obj: CXX_COMPILER__Ejercicio_1_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 1/matematicas.cpp || cmake_object_order_depends_target_Ejercicio_1
+  DEP_FILE = CMakeFiles\Ejercicio_1.dir\Ejercicio_1\matematicas.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
+  OBJECT_DIR = CMakeFiles\Ejercicio_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_1.dir\Ejercicio_1
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Colecci_n_de_Ejercicios_STL
+# Link build statements for EXECUTABLE target Ejercicio_1
 
 
 #############################################
-# Link the executable Colecci_n_de_Ejercicios_STL.exe
+# Link the executable Ejercicio_1.exe
 
-build Colecci_n_de_Ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Colecci_n_de_Ejercicios_STL_Debug CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/matematicas.cpp.obj
+build Ejercicio_1.exe: CXX_EXECUTABLE_LINKER__Ejercicio_1_Debug CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj CMakeFiles/Ejercicio_1.dir/Ejercicio_1/matematicas.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
+  OBJECT_DIR = CMakeFiles\Ejercicio_1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Colecci_n_de_Ejercicios_STL.exe
-  TARGET_IMPLIB = libColecci_n_de_Ejercicios_STL.dll.a
-  TARGET_PDB = Colecci_n_de_Ejercicios_STL.exe.dbg
+  TARGET_FILE = Ejercicio_1.exe
+  TARGET_IMPLIB = libEjercicio_1.dll.a
+  TARGET_PDB = Ejercicio_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Ejercicio_2
+
+
+#############################################
+# Order-only phony target for Ejercicio_2
+
+build cmake_object_order_depends_target_Ejercicio_2: phony || CMakeFiles/Ejercicio_2.dir
+
+build CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj: CXX_COMPILER__Ejercicio_2_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 2/main.cpp || cmake_object_order_depends_target_Ejercicio_2
+  DEP_FILE = CMakeFiles\Ejercicio_2.dir\Ejercicio_2\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_2.dir\Ejercicio_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Ejercicio_2
+
+
+#############################################
+# Link the executable Ejercicio_2.exe
+
+build Ejercicio_2.exe: CXX_EXECUTABLE_LINKER__Ejercicio_2_Debug CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Ejercicio_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Ejercicio_2.exe
+  TARGET_IMPLIB = libEjercicio_2.dll.a
+  TARGET_PDB = Ejercicio_2.exe.dbg
 
 
 #############################################
@@ -105,7 +138,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Colecci_n_de_Ejercicios_STL: phony Colecci_n_de_Ejercicios_STL.exe
+build Ejercicio_1: phony Ejercicio_1.exe
+
+build Ejercicio_2: phony Ejercicio_2.exe
 
 # =============================================================================
 # Folder targets.
@@ -115,7 +150,7 @@ build Colecci_n_de_Ejercicios_STL: phony Colecci_n_de_Ejercicios_STL.exe
 #############################################
 # Folder: C:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/cmake-build-debug
 
-build all: phony Colecci_n_de_Ejercicios_STL.exe
+build all: phony Ejercicio_1.exe Ejercicio_2.exe
 
 # =============================================================================
 # Built-in targets
