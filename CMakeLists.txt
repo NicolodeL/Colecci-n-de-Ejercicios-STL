@@ -26,4 +26,7 @@ add_executable(Ejercicio_3
         "Ejercicio 3/circulo.cpp"
         "Ejercicio 3/circulo.h"
 )
+add_executable(Ejercicio_4
+        "Ejercicio 4/main.cpp")
+
 
