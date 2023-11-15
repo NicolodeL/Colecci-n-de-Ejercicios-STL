@@ -6,6 +6,9 @@ namespace Matematicas {
     int resta(int a, int b);
     int multiplicacion(int a, int b);
     double division(int a, int b);
+    double raizCuadrada(int a);
+    double potencia(int a, int b);
+    double logaritmo(int a);
 }
 
 
