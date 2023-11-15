@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "matematicas.h"
 using namespace std;
 using namespace Matematicas;
 int main()
