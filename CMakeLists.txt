@@ -10,5 +10,9 @@ add_executable(Ejercicio_1
         "Ejercicio 1/matematicas.cpp"
 )
 add_executable (Ejercicio_2
-        "Ejercicio 2/main.cpp")
+        "Ejercicio 2/main.cpp"
+        "Ejercicio 2/triangulo.cpp"
+        "Ejercicio 2/triangulo.h"
+        "Ejercicio 2/circulo.cpp"
+        "Ejercicio 2/circulo.h")
 
