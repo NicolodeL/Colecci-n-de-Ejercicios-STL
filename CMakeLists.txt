@@ -30,5 +30,8 @@ add_executable(Ejercicio_4
         "Ejercicio 4/main.cpp"
         "Ejercicio 4/ciencia.cpp"
         "Ejercicio 4/ciencia.h")
+add_executable(Ejercicio_5
+        "Ejercicio 5/main.cpp"
+        )
 
 
