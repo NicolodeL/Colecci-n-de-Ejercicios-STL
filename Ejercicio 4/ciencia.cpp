@@ -21,7 +21,7 @@ namespace Ciencia {
         int longitudARN(const std::string& cadenaARN) {
             return cadenaARN.size();
         }
-        const double c = 299792458; //km/s
+        const double R = 8314; //J/mol/K;
     }
 
 }

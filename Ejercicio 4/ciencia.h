@@ -16,7 +16,7 @@ namespace Ciencia {
     }
     namespace Biologia{
         int longitudARN(const std::string& cadenaARN);
-        extern const double c;
+        extern const double R;
     }
 
 }
