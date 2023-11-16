@@ -10,7 +10,7 @@ using namespace std;
 
 namespace Contenedores {
     void agregarNumeros(std::vector<int>& vec);
-    void agregarEdades();
+    void agregarEdades(const std::string& nombre , int edades);
     void eliminarEdad(const std::string& nombre);
     void agregarConjunto();
     void eliminarDelConjunto(int elemento);

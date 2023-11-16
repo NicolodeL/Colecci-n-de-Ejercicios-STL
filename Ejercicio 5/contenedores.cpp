@@ -4,8 +4,7 @@ namespace Contenedores {
     void agregarNumeros(std::vector<int>& vec) {
         vec.push_back(6);
     }
-    }
-    void agregarEdades() {
+    void agregarEdades(const std::string& nombre , int edades) {
         std::map<std::string, int> edad;
         edad["Pedro"] = 12;
     }
@@ -21,4 +20,4 @@ namespace Contenedores {
         std::set<int> conjunto {1, 2, 3, 4, 5};
         conjunto.erase(elemento);
     }
-
+}
