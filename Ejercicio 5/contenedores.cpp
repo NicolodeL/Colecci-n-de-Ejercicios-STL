@@ -17,4 +17,8 @@ namespace Contenedores {
         std::set<int> conjunto {1, 2, 3, 4, 5};
         conjunto.insert(6);
     }
+    void eliminarDelConjunto(int elemento) {
+        std::set<int> conjunto {1, 2, 3, 4, 5};
+        conjunto.erase(elemento);
+    }
 }

@@ -13,6 +13,7 @@ namespace Contenedores {
     void agregarEdades();
     void eliminarEdad(const std::string& nombre);
     void agregarConjunto();
+    void eliminarDelConjunto(int elemento);
 }
 
 
