@@ -2,6 +2,7 @@
 #include "ciencia.h"
 #include <cmath>
 
+
 namespace Ciencia {
     namespace Fisica
     {
@@ -17,7 +18,10 @@ namespace Ciencia {
         const double avogadro = 6.02214076e23;
     }
     namespace Biologia{
-    {
+        int longitudARN(const std::string& cadenaARN) {
+            return cadenaARN.size();
         }
+        const double c = 299792458; //km/s
     }
+
 }
