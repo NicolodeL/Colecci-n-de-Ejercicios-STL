@@ -9,7 +9,7 @@ using namespace std;
 #define COLECCI_N_DE_EJERCICIOS_STL_CONTENEDORES_H
 
 namespace Contenedores {
-    void agregarNumeros();
+    void agregarNumeros(std::vector<int>& vec);
     void agregarEdades();
     void eliminarEdad(const std::string& nombre);
     void agregarConjunto();
