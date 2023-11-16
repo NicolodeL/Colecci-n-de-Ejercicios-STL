@@ -11,6 +11,8 @@ using namespace std;
 namespace Contenedores {
     void agregarNumeros();
     void agregarEdades();
+    void eliminarEdad(const std::string& nombre);
+    void agregarConjunto();
 }
 
 
