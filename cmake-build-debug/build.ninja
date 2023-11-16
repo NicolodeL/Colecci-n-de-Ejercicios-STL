@@ -235,6 +235,12 @@ build CMakeFiles/Ejercicio_5.dir/Ejercicio_5/main.cpp.obj: CXX_COMPILER__Ejercic
   OBJECT_DIR = CMakeFiles\Ejercicio_5.dir
   OBJECT_FILE_DIR = CMakeFiles\Ejercicio_5.dir\Ejercicio_5
 
+build CMakeFiles/Ejercicio_5.dir/Ejercicio_5/contenedores.cpp.obj: CXX_COMPILER__Ejercicio_5_unscanned_Debug C$:/Users/nicol/OneDrive/Documents/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 5/contenedores.cpp || cmake_object_order_depends_target_Ejercicio_5
+  DEP_FILE = CMakeFiles\Ejercicio_5.dir\Ejercicio_5\contenedores.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ejercicio_5.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ejercicio_5.dir\Ejercicio_5
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Ejercicio_5
@@ -243,7 +249,7 @@ build CMakeFiles/Ejercicio_5.dir/Ejercicio_5/main.cpp.obj: CXX_COMPILER__Ejercic
 #############################################
 # Link the executable Ejercicio_5.exe
 
-build Ejercicio_5.exe: CXX_EXECUTABLE_LINKER__Ejercicio_5_Debug CMakeFiles/Ejercicio_5.dir/Ejercicio_5/main.cpp.obj
+build Ejercicio_5.exe: CXX_EXECUTABLE_LINKER__Ejercicio_5_Debug CMakeFiles/Ejercicio_5.dir/Ejercicio_5/main.cpp.obj CMakeFiles/Ejercicio_5.dir/Ejercicio_5/contenedores.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ejercicio_5.dir

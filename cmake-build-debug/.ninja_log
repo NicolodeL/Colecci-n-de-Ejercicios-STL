@@ -3,7 +3,7 @@
 5	300	7217856459539324	CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj	2097e6286978bc6
 3	289	7217865548795772	CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/main.cpp.obj	9840b67ed1675871
 3	103	7217867415590359	Colecci_n_de_Ejercicios_STL.exe	81b2451626827583
-1	380	7218020142525698	build.ninja	261f81248e0d6b26
+1	182	7218036440355584	build.ninja	261f81248e0d6b26
 2	288	7217892824514264	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/main.cpp.obj	47f9f4004a073201
 19	97	7217883275318138	CMakeFiles/Ejercicio_2.dir/Ejercicio_2/circulo.cpp.obj	283669298e2ef1dc
 288	404	7217892825622580	Ejercicio_2.exe	783892e7dc392a6
@@ -25,4 +25,6 @@
 3	247	7218018827248786	CMakeFiles/Ejercicio_4.dir/Ejercicio_4/main.cpp.obj	eb89f031c95f7aa
 247	338	7218018828124334	Ejercicio_4.exe	6ec5f03f74c844d8
 67	177	7218019961624833	Ejercicio_5.exe	ef50ec9ec4292f32
-1	182	7218020142525698	build.ninja	261f81248e0d6b26
+0	87	7218040173991241	CMakeFiles/Ejercicio_5.dir/Ejercicio_5/main.cpp.obj	2d8c56e1a134ef35
+0	402	7218040270914897	CMakeFiles/Ejercicio_5.dir/Ejercicio_5/contenedores.cpp.obj	8637b12cdba7eb12
+404	556	7218040272420612	Ejercicio_5.exe	e668301f5ee81ca5
