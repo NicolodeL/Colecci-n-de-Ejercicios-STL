@@ -10,6 +10,10 @@ namespace Ciencia {
         extern const double L;
         double calcularEnergia(double masa);
     }
+    namespace Quimica {
+        double calcularMoles(double Moles, double masaMolar);
+        extern const double avogadro;
+    }
 
 }
 

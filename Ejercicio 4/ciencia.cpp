@@ -10,9 +10,11 @@ namespace Ciencia {
             return masa * L * L;
         }
     }
-    namespace Quimica{
-    {
+    namespace Quimica {
+        double  calcularMoles(double masa, double masaMolar) {
+            return masa / masaMolar;
         }
+        const double avogadro = 6.02214076e23;
     }
     namespace Biologia{
     {
